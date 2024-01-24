@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/event-driven-candog-finals/static/css/main.213e6e38.css",
+    "main.js": "/event-driven-candog-finals/static/js/main.2081b369.js",
+    "static/js/787.d75e9ea4.chunk.js": "/event-driven-candog-finals/static/js/787.d75e9ea4.chunk.js",
+    "static/media/back.jpg": "/event-driven-candog-finals/static/media/back.50500af8748dfb1ac33b.jpg",
+    "static/media/college.jpg": "/event-driven-candog-finals/static/media/college.14e491cdc6533a1355ca.jpg",
+    "index.html": "/event-driven-candog-finals/index.html",
+    "main.213e6e38.css.map": "/event-driven-candog-finals/static/css/main.213e6e38.css.map",
+    "main.2081b369.js.map": "/event-driven-candog-finals/static/js/main.2081b369.js.map",
+    "787.d75e9ea4.chunk.js.map": "/event-driven-candog-finals/static/js/787.d75e9ea4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.213e6e38.css",
+    "static/js/main.2081b369.js"
+  ]
+}
